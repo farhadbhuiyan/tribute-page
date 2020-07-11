@@ -1,0 +1,41 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+}
+
+#main{
+  background-color: #dfdede;
+}
+#title{
+  text-align: center;
+  font-weight: 700;
+  padding-top: 20px;
+}
+
+#img-div{
+  background-color: #FFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#image{
+  max-width: 100%;
+  padding: 20px;
+
+}
+#img-caption{
+  padding-bottom: 20px;
+}
+
+#nice-paragraph{
+  padding: 0 50px 50px 50px;
+  font-size: 16px;
+  text-align: justify;
+}
+.link{
+  padding-bottom: 20px;
+}
